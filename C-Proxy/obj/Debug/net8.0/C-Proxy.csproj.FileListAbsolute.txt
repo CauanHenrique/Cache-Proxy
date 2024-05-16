@@ -1,0 +1,14 @@
+/media/cauan/NotOS/Projects/c#/C-Proxy/C-Proxy/bin/Debug/net8.0/C-Proxy
+/media/cauan/NotOS/Projects/c#/C-Proxy/C-Proxy/bin/Debug/net8.0/C-Proxy.deps.json
+/media/cauan/NotOS/Projects/c#/C-Proxy/C-Proxy/bin/Debug/net8.0/C-Proxy.runtimeconfig.json
+/media/cauan/NotOS/Projects/c#/C-Proxy/C-Proxy/bin/Debug/net8.0/C-Proxy.dll
+/media/cauan/NotOS/Projects/c#/C-Proxy/C-Proxy/bin/Debug/net8.0/C-Proxy.pdb
+/media/cauan/NotOS/Projects/c#/C-Proxy/C-Proxy/obj/Debug/net8.0/C-Proxy.GeneratedMSBuildEditorConfig.editorconfig
+/media/cauan/NotOS/Projects/c#/C-Proxy/C-Proxy/obj/Debug/net8.0/C-Proxy.AssemblyInfoInputs.cache
+/media/cauan/NotOS/Projects/c#/C-Proxy/C-Proxy/obj/Debug/net8.0/C-Proxy.AssemblyInfo.cs
+/media/cauan/NotOS/Projects/c#/C-Proxy/C-Proxy/obj/Debug/net8.0/C-Proxy.csproj.CoreCompileInputs.cache
+/media/cauan/NotOS/Projects/c#/C-Proxy/C-Proxy/obj/Debug/net8.0/C-Proxy.dll
+/media/cauan/NotOS/Projects/c#/C-Proxy/C-Proxy/obj/Debug/net8.0/refint/C-Proxy.dll
+/media/cauan/NotOS/Projects/c#/C-Proxy/C-Proxy/obj/Debug/net8.0/C-Proxy.pdb
+/media/cauan/NotOS/Projects/c#/C-Proxy/C-Proxy/obj/Debug/net8.0/C-Proxy.genruntimeconfig.cache
+/media/cauan/NotOS/Projects/c#/C-Proxy/C-Proxy/obj/Debug/net8.0/ref/C-Proxy.dll
